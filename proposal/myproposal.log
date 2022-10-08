@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  8 OCT 2022 07:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  8 OCT 2022 07:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -407,13 +407,15 @@ LaTeX Info: Redefining \nameref on input line 24.
 \openout3 = `myproposal.out'.
 
 
-Runaway argument?
-{\documentclass [12pt]{article} 
-! Paragraph ended before \@citex was complete.
-<to be read again> 
-                   \par 
-l.30 
-     
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \documentclass
+                   [12pt]{article}
 ? 
 
 ! LaTeX Error: Can be used only in preamble.
@@ -492,16 +494,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.52 \begin{document}
-                     
-? 
-Runaway argument?
-{\documentclass [12pt]{article} 
-! Paragraph ended before \@citex was complete.
-<to be read again> 
-                   \par 
-l.58 
-     
+l.49 \documentclass
+                   [12pt]{article}
 ? 
 
 ! LaTeX Error: Can be used only in preamble.
@@ -510,7 +504,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 \usepackage
+l.52 \usepackage
                 {amsmath}
 ? 
 
@@ -520,7 +514,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \usepackage
+l.53 \usepackage
                 [margin = 1in]{geometry}
 ? 
 
@@ -530,7 +524,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 \usepackage
+l.54 \usepackage
                 {graphicx}
 ? 
 
@@ -540,7 +534,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 \usepackage
+l.55 \usepackage
                 {booktabs}
 ? 
 
@@ -550,7 +544,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.64 \usepackage
+l.56 \usepackage
                 {natbib}
 ? 
 
@@ -560,7 +554,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67 \usepackage
+l.59 \usepackage
                 {lipsum}
 ? 
 
@@ -570,7 +564,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 \usepackage
+l.61 \usepackage
                 [colorlinks=true, citecolor=blue]{hyperref}
 ? 
 
@@ -580,48 +574,44 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \begin{document}
+l.72 \begin{document}
                      
 ? 
-[1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package natbib Warning: Citation `sloan2021taylor' on page 1 undefined on input
+ line 77.
 
-Package natbib Warning: Citation `sloan2021taylor' on page 2 undefined on input
- line 85.
-
-[2]
 No file myproposal.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-[3] (./myproposal.aux)
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./myproposal.aux)
 Package rerunfilecheck Info: File `myproposal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
-(\end occurred inside a group at level 4)
+(\end occurred inside a group at level 1)
 
-### semi simple group (level 4) entered at line 80 (\begingroup)
-### semi simple group (level 3) entered at line 57 (\begingroup)
-### semi simple group (level 2) entered at line 52 (\begingroup)
-### semi simple group (level 1) entered at line 29 (\begingroup)
+### semi simple group (level 1) entered at line 72 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 10139 strings out of 478268
- 162231 string characters out of 5846347
- 551789 words of memory out of 5000000
+ 10137 strings out of 478268
+ 162219 string characters out of 5846347
+ 548789 words of memory out of 5000000
  28223 multiletter control sequences out of 15000+600000
  471527 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,77p,276b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,6n,77p,276b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr17.pfb>
-Output written on myproposal.pdf (3 pages, 50538 bytes).
+Output written on myproposal.pdf (1 page, 43289 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
+ 38 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
