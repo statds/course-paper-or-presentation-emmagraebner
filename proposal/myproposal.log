@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  8 OCT 2022 08:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 OCT 2022 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,7 +398,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 
 
 Package natbib Warning: Citation `sloan2021taylor' on page 1 undefined on input
- line 29.
+ line 30.
 
 No file myproposal.bbl.
 
@@ -414,7 +414,7 @@ Package rerunfilecheck Info: File `myproposal.out' has not changed.
 Here is how much of TeX's memory you used:
  9691 strings out of 478268
  151269 string characters out of 5846347
- 451027 words of memory out of 5000000
+ 451065 words of memory out of 5000000
  27793 multiletter control sequences out of 15000+600000
  471527 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -422,7 +422,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on myproposal.pdf (1 page, 40383 bytes).
+Output written on myproposal.pdf (1 page, 41554 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
