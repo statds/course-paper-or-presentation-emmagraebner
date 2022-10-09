@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: myproposal.aux
 The style file: chicago.bst
 Database file #1: refs.bib
-You've used 1 entry,
+You've used 3 entries,
             2861 wiz_defined-function locations,
-            620 strings with 4981 characters,
-and the built_in function-call counts, 579 in all, are:
-= -- 50
-> -- 26
+            630 strings with 5180 characters,
+and the built_in function-call counts, 1676 in all, are:
+= -- 137
+> -- 104
 < -- 0
-+ -- 6
-- -- 10
-* -- 45
-:= -- 111
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 18
-empty$ -- 43
-format.name$ -- 10
-if$ -- 102
++ -- 30
+- -- 40
+* -- 123
+:= -- 327
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 18
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 51
+empty$ -- 110
+format.name$ -- 44
+if$ -- 294
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 10
-pop$ -- 3
+missing$ -- 3
+newline$ -- 17
+num.names$ -- 30
+pop$ -- 16
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 37
 quote$ -- 0
-skip$ -- 18
+skip$ -- 58
 stack$ -- 0
-substring$ -- 39
-swap$ -- 6
+substring$ -- 81
+swap$ -- 16
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
+type$ -- 50
 warning$ -- 0
-while$ -- 12
+while$ -- 32
 width$ -- 0
-write$ -- 15
+write$ -- 39

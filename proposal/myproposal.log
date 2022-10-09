@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 OCT 2022 10:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 OCT 2022 12:49
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **myproposal.tex
 (./myproposal.tex
@@ -403,10 +404,10 @@ Package rerunfilecheck Info: File `myproposal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9702 strings out of 478268
- 151454 string characters out of 5846347
- 452094 words of memory out of 5000000
- 27799 multiletter control sequences out of 15000+600000
+ 9710 strings out of 478268
+ 151628 string characters out of 5846347
+ 454180 words of memory out of 5000000
+ 27805 multiletter control sequences out of 15000+600000
  472480 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,63p,241b,324s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -414,10 +415,10 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
 sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on myproposal.pdf (1 page, 56553 bytes).
+Output written on myproposal.pdf (1 page, 60543 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
