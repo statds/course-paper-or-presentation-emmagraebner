@@ -3,44 +3,55 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: myproposal.aux
 The style file: chicago.bst
 Database file #1: refs.bib
-You've used 3 entries,
+Warning--no key, author in brown2018pop
+Warning--no author, editor, or organization in brown2018pop
+Warning--to sort, need author or key in brown2018pop
+Warning--no key, author in brown2018pop
+Warning--no author, editor, or organization in brown2018pop
+Warning--no key, author in brown2018pop
+Warning--no author, editor, or organization in brown2018pop
+Warning--no key, author in brown2018pop
+Warning--no author, editor, or organization in brown2018pop
+Warning--empty year in brown2018pop
+You've used 4 entries,
             2861 wiz_defined-function locations,
-            630 strings with 5180 characters,
-and the built_in function-call counts, 1676 in all, are:
-= -- 137
+            631 strings with 5192 characters,
+and the built_in function-call counts, 2029 in all, are:
+= -- 167
 > -- 104
 < -- 0
 + -- 30
 - -- 40
-* -- 123
-:= -- 327
-add.period$ -- 8
-call.type$ -- 3
-change.case$ -- 18
-chr.to.int$ -- 3
-cite$ -- 3
-duplicate$ -- 51
-empty$ -- 110
+* -- 157
+:= -- 354
+add.period$ -- 9
+call.type$ -- 4
+change.case$ -- 22
+chr.to.int$ -- 4
+cite$ -- 18
+duplicate$ -- 67
+empty$ -- 154
 format.name$ -- 44
-if$ -- 294
+if$ -- 368
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 3
-newline$ -- 17
+newline$ -- 20
 num.names$ -- 30
-pop$ -- 16
+pop$ -- 32
 preamble$ -- 1
-purify$ -- 37
+purify$ -- 48
 quote$ -- 0
-skip$ -- 58
+skip$ -- 68
 stack$ -- 0
-substring$ -- 81
-swap$ -- 16
+substring$ -- 105
+swap$ -- 21
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 50
-warning$ -- 0
+type$ -- 70
+warning$ -- 10
 while$ -- 32
 width$ -- 0
-write$ -- 39
+write$ -- 46
+(There were 10 warnings)
