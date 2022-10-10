@@ -4,6 +4,9 @@ The top-level auxiliary file: myproposal.aux
 The style file: chicago.bst
 Database file #1: refs.bib
 Warning--I didn't find a database entry for "chuan2013multimodal"
+Warning--no key, author in mayer2008rhyme
+Warning--no author, editor, or organization in mayer2008rhyme
+Warning--to sort, need author or key in mayer2008rhyme
 Warning--no key, author, or editor in perone2017words
 Warning--no author, editor, or organization in perone2017words
 Warning--missing author in perone2017words
@@ -11,6 +14,10 @@ Warning--to sort, need author, editor, or key in perone2017words
 Warning--no key, author in nunes2015power
 Warning--no author, editor, or organization in nunes2015power
 Warning--to sort, need author or key in nunes2015power
+Warning--no key, author in mayer2008rhyme
+Warning--no author, editor, or organization in mayer2008rhyme
+Warning--no key, author in mayer2008rhyme
+Warning--no author, editor, or organization in mayer2008rhyme
 Warning--no key, author in nunes2015power
 Warning--no author, editor, or organization in nunes2015power
 Warning--no key, author in nunes2015power
@@ -19,6 +26,12 @@ Warning--no key, author, or editor in perone2017words
 Warning--no author, editor, or organization in perone2017words
 Warning--no key, author, or editor in perone2017words
 Warning--no author, editor, or organization in perone2017words
+Warning--no key, author in mayer2008rhyme
+Warning--no author, editor, or organization in mayer2008rhyme
+Warning--empty author in mayer2008rhyme
+Warning--empty year in mayer2008rhyme
+Warning--empty title in mayer2008rhyme
+Warning--empty booktitle in mayer2008rhyme
 Warning--no key, author, or editor in perone2017words
 Warning--no author, editor, or organization in perone2017words
 Warning--empty author and editor in perone2017words
@@ -27,51 +40,46 @@ Warning--empty title in perone2017words
 Warning--empty publisher in perone2017words
 Warning--no key, author in nunes2015power
 Warning--no author, editor, or organization in nunes2015power
-Warning--empty author in nunes2015power
 Warning--empty year in nunes2015power
-Warning--empty title in nunes2015power
-Warning--no journal in nunes2015power
-Warning--no number and no volume in nunes2015power
-Warning--page numbers missing in nunes2015power
-You've used 4 entries,
+You've used 5 entries,
             2861 wiz_defined-function locations,
-            628 strings with 5151 characters,
-and the built_in function-call counts, 1961 in all, are:
-= -- 159
+            629 strings with 5165 characters,
+and the built_in function-call counts, 2344 in all, are:
+= -- 191
 > -- 78
 < -- 0
 + -- 22
 - -- 30
-* -- 182
-:= -- 289
-add.period$ -- 7
-call.type$ -- 4
-change.case$ -- 21
-chr.to.int$ -- 4
-cite$ -- 41
-duplicate$ -- 68
-empty$ -- 173
+* -- 214
+:= -- 317
+add.period$ -- 8
+call.type$ -- 5
+change.case$ -- 25
+chr.to.int$ -- 5
+cite$ -- 54
+duplicate$ -- 91
+empty$ -- 225
 format.name$ -- 34
-if$ -- 369
+if$ -- 453
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 3
-newline$ -- 18
+newline$ -- 21
 num.names$ -- 20
-pop$ -- 44
+pop$ -- 67
 preamble$ -- 1
-purify$ -- 47
+purify$ -- 58
 quote$ -- 0
-skip$ -- 59
+skip$ -- 70
 stack$ -- 0
-substring$ -- 107
-swap$ -- 19
+substring$ -- 131
+swap$ -- 24
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 70
-warning$ -- 29
+type$ -- 90
+warning$ -- 37
 while$ -- 22
 width$ -- 0
-write$ -- 40
-(There were 30 warnings)
+write$ -- 47
+(There were 38 warnings)
