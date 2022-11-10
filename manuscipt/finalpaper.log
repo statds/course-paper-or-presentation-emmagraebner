@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  10 NOV 2022 16:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  10 NOV 2022 17:10
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **finalpaper.tex
 (./finalpaper.tex
@@ -428,8 +427,7 @@ nput line 50.
 LaTeX Warning: File `cars.pdf' not found on input line 126.
 
 
-./finalpaper.tex:126: Package pdftex.def Error: File `cars.pdf' not found: usin
-g draft setting.
+! Package pdftex.def Error: File `cars.pdf' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -448,9 +446,6 @@ No file finalpaper.bbl.
 Package natbib Warning: There were undefined citations.
 
 [5] (./finalpaper.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `finalpaper.out' has not changed.
 (rerunfilecheck)             Checksum: A2DA40BC6B073A49D78286FDB82EC60D;415.
  ) 
