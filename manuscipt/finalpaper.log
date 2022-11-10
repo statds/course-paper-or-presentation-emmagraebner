@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  10 NOV 2022 15:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  10 NOV 2022 15:27
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **finalpaper.tex
 (./finalpaper.tex
@@ -406,56 +407,61 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write3
 \openout3 = `finalpaper.out'.
 
- [1
+
+
+Package natbib Warning: Citation `xie2015dynamic' on page 1 undefined on input 
+line 44.
+
+
+Package natbib Warning: Citation `xie2015dynamic' on page 1 undefined on input 
+line 46.
+
+
+Package natbib Warning: Citation `dwivedi2017analysis' on page 1 undefined on i
+nput line 49.
+
+[1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] [3]
 
-Package natbib Warning: Citation `xie2015dynamic' on page 2 undefined on input 
-line 43.
-
-
-Package natbib Warning: Citation `xie2015dynamic' on page 2 undefined on input 
-line 45.
+LaTeX Warning: File `cars.pdf' not found on input line 126.
 
 
-Package natbib Warning: Citation `dwivedi2017analysis' on page 2 undefined on i
-nput line 48.
-
-[2] [3] [4]
-
-LaTeX Warning: File `cars.pdf' not found on input line 125.
-
-
-! Package pdftex.def Error: File `cars.pdf' not found: using draft setting.
+./finalpaper.tex:126: Package pdftex.def Error: File `cars.pdf' not found: usin
+g draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.125 ...cludegraphics[width=\textwidth]{cars.pdf}
+l.126 ...cludegraphics[width=\textwidth]{cars.pdf}
                                                   
 ? 
-[5] [6]
 
-Package natbib Warning: Citation `wild2004global' on page 7 undefined on input 
-line 140.
+Package natbib Warning: Citation `wild2004global' on page 4 undefined on input 
+line 141.
 
+[4] [5]
 No file finalpaper.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-[7] (./finalpaper.aux)
+[6] (./finalpaper.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `finalpaper.out' has not changed.
 (rerunfilecheck)             Checksum: A2DA40BC6B073A49D78286FDB82EC60D;415.
  ) 
 Here is how much of TeX's memory you used:
- 10233 strings out of 478268
- 163338 string characters out of 5846347
- 554033 words of memory out of 5000000
+ 10232 strings out of 478268
+ 163332 string characters out of 5846347
+ 553033 words of memory out of 5000000
  28289 multiletter control sequences out of 15000+600000
  476022 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,77p,276b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,8n,77p,398b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -466,10 +472,10 @@ local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
 texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on finalpaper.pdf (7 pages, 120031 bytes).
+Output written on finalpaper.pdf (6 pages, 114511 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
