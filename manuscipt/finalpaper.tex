@@ -57,7 +57,10 @@ A discussion concludes in Section~\ref{sec:disc}.
 \label{sec:data}
 
 The data that I am using to analyze the songs I have chosen at random is the individual work's lyrics. The software program Excel allowed me to organize my data in a readable format. It also provided a randomizer - the command "=randbetween(range)" - to chose each song from each album. I first found each song's lyrics on the acclaimed website azlyrics.com, formatted the words to be in one column, then pasted them into excel. Using the find and replace function, I got rid of any spaces. From there, I sorted the lyrics starting from A all the way to Z. This way, I was able to see all the repetitions of lyrics in one place. I then went through and manually searched for words that did not repeat, and assigned them a value of 1 in the column next to the word. After that was complete, I selected the column and it reported the sum (the number of ones I had put for each unique word). Then, I compared this number to the total number of words in the song; that is how the proportion of non repeated words was calculated.
-This data explains the trend in popular mainstream music making. As you can see from the table below 
+
+This data explains the trend in popular mainstream music making. As you can see from the table below, The highest proportion of unrepeated words was from Taylor Swift's album entitled Evermore. The data from Champagne Problems, the song chosen at random to represent this album, has a proportion of 0.4090; almost 41 percent of the song is unique in its prose. Her most repetitive songs include Labyrinth (from Midnights) at a proportion of .1254, Welcome To New York (from 1989) with .1391, and ...Ready For It (from Reputation) having .1396 proportion. 
+
+
 
 \begin{table}[tbp]
   \caption{This table comprises the proportion of unique words in each Taylor Swift song from 10 different albums.}
@@ -78,6 +81,22 @@ Taylor Swift & Cold As You & .2204 \\
   Evermore & Champagne Problems & .4090 \\ 
   Midnights & Labyrinth & .1254 \\ 
    \bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[tbp]
+  \caption{This table demonstrates the comparison of proportion unique words to its musical artist, genre, and time spent on the Billboard Top 100.}
+  \label{tab:rv}
+\centering
+\begin{tabular}{rrrrr}
+  \toprule
+Artist & Song & Proportion Unique Words & Genre & Time Spent on Billboard Top 100 Chart (in weeks) \\ 
+  \midrule
+Dua Lipa & Cool & .0827 & Electronic Pop & 0 \\ 
+  Lady Gaga & 1000 Doves  & .1764 & Electronic Pop & 0 \\ 
+  Sam Smith & Unholy & .2017 & Dance Pop & 6 \\ 
+  The Weeknd & Blinding Lights & .1760 & Electronic & 90\\ 
+     \bottomrule
 \end{tabular}
 \end{table}
 
