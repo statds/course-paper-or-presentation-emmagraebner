@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 08:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 08:44
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **finalpaper.tex
 (./finalpaper.tex
@@ -427,8 +426,7 @@ nput line 55.
 LaTeX Warning: File `cars.pdf' not found on input line 131.
 
 
-./finalpaper.tex:131: Package pdftex.def Error: File `cars.pdf' not found: usin
-g draft setting.
+! Package pdftex.def Error: File `cars.pdf' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
