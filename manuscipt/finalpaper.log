@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 08:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 08:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -437,12 +437,7 @@ Type  H <return>  for immediate help.
 l.131 ...cludegraphics[width=\textwidth]{cars.pdf}
                                                   
 ? 
-[2] [3]
-
-Package natbib Warning: Citation `wild2004global' on page 4 undefined on input 
-line 146.
-
-(./finalpaper.bbl)
+[2] [3] (./finalpaper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
@@ -468,7 +463,7 @@ local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
 texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on finalpaper.pdf (4 pages, 118673 bytes).
+Output written on finalpaper.pdf (4 pages, 117273 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
