@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=latex 2022.9.26)  14 NOV 2022 10:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=latex 2022.9.26)  14 NOV 2022 10:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -16,7 +16,7 @@ File: l3backend-dvips.def 2022-02-07 L3 backend support: dvips
 \g__pdf_backend_link_int=\count187
 \g__pdf_backend_link_sf_int=\count188
 )
-No file refs.aux.
+(./refs.aux)
 \openout1 = `refs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 1.
@@ -34,6 +34,7 @@ LaTeX Font Info:    ... okay on input line 1.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 1.
 LaTeX Font Info:    ... okay on input line 1.
 
+
 ! LaTeX Error: The font size command \normalsize is not defined:
                there is probably something wrong with the class file.
 
@@ -44,17 +45,19 @@ Type  H <return>  for immediate help.
 l.1 \begin{document}
                     
 ? 
-)
-*
 ! Emergency stop.
-<*> 
-    
-End of file on the terminal!
+ ...                                              
+                                                  
+l.1 \begin{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 194 strings out of 478269
- 5238 string characters out of 5846373
+ 197 strings out of 478269
+ 5483 string characters out of 5846373
  295493 words of memory out of 5000000
  18499 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
