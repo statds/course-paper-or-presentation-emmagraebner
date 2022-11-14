@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 08:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 08:53
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **finalpaper.tex
 (./finalpaper.tex
@@ -408,49 +409,42 @@ LaTeX Info: Redefining \nameref on input line 24.
 
 
 
-Package natbib Warning: Citation `xie2015dynamic' on page 1 undefined on input 
-line 50.
-
-
-Package natbib Warning: Citation `xie2015dynamic' on page 1 undefined on input 
-line 52.
-
-
-Package natbib Warning: Citation `dwivedi2017analysis' on page 1 undefined on i
-nput line 55.
+Package natbib Warning: Citation `newkey2014taylor' on page 1 undefined on inpu
+t line 39.
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: File `cars.pdf' not found on input line 131.
+LaTeX Warning: File `cars.pdf' not found on input line 121.
 
 
-! Package pdftex.def Error: File `cars.pdf' not found: using draft setting.
+./finalpaper.tex:121: Package pdftex.def Error: File `cars.pdf' not found: usin
+g draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 ...cludegraphics[width=\textwidth]{cars.pdf}
+l.121 ...cludegraphics[width=\textwidth]{cars.pdf}
                                                   
 ? 
-[2] [3] (./finalpaper.bbl)
+(./finalpaper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
-[4] (./finalpaper.aux)
+[2] [3] [4] (./finalpaper.aux)
 Package rerunfilecheck Info: File `finalpaper.out' has not changed.
 (rerunfilecheck)             Checksum: A2DA40BC6B073A49D78286FDB82EC60D;415.
  ) 
 Here is how much of TeX's memory you used:
  10232 strings out of 478268
  163350 string characters out of 5846347
- 553113 words of memory out of 5000000
+ 555113 words of memory out of 5000000
  28289 multiletter control sequences out of 15000+600000
  476022 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,77p,1060b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,8n,77p,1060b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -461,7 +455,7 @@ local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
 texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on finalpaper.pdf (4 pages, 117273 bytes).
+Output written on finalpaper.pdf (4 pages, 117025 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
