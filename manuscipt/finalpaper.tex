@@ -57,39 +57,7 @@ A discussion concludes in Section~\ref{sec:disc}.
 \label{sec:data}
 
 The data that I am using to analyze the songs I have chosen at random is the individual work's lyrics. The software program Excel allowed me to organize my data in a readable format. It also provided a randomizer - the command "=randbetween(range)" - to chose each song from each album. I first found each song's lyrics on the acclaimed website azlyrics.com, formatted the words to be in one column, then pasted them into excel. Using the find and replace function, I got rid of any spaces. From there, I sorted the lyrics starting from A all the way to Z. This way, I was able to see all the repetitions of lyrics in one place. I then went through and manually searched for words that did not repeat, and assigned them a value of 1 in the column next to the word. After that was complete, I selected the column and it reported the sum (the number of ones I had put for each unique word). Then, I compared this number to the total number of words in the song; that is how the proportion of non repeated words was calculated.
-
-\begin{equation}
-  \label{eq:mc2}
-  E = m c^2,
-\end{equation}
-which states that the energy $E$ of a particle in its rest frame as the product
-of mass ($m$) with the speed of light squared ($c^2$).
-
-
-\section{Methods}
-\label{sec:meth}
-
-Use this section to present the methodologies that will generate results by
-analyzing the data. Suppose that the radius of a circle is $r$. Then its area is
-\begin{equation}
-  \label{eq:area}
-  \pi r^2.
-\end{equation}
-
-Equation~\eqref{eq:area} is interesting. 
-
-Sometimes I don't want an equation to be numbered such as this one:
-\[
-  f(x) = \frac{1}{\sqrt{2\pi}} \exp\left( - \frac{x^2}{2} \right),
-\]
-which is the density of a standard normal variable.
-
-
-
-\section{Results}
-\label{sec:resu}
-
-Table~\ref{tab:rv} summarizes some example draws from some distributions.
+This data explains the trend in popular mainstream music making. As you can see from the table below 
 
 \begin{table}[tbp]
   \caption{This table comprises the proportion of unique words in each Taylor Swift song from 10 different albums.}
@@ -112,6 +80,28 @@ Taylor Swift & Cold As You & .2204 \\
    \bottomrule
 \end{tabular}
 \end{table}
+
+\section{Methods}
+\label{sec:meth}
+
+Use this section to present the methodologies that will generate results by
+analyzing the data.
+
+Equation~\eqref{eq:area} is interesting. 
+
+Sometimes I don't want an equation to be numbered such as this one:
+\[
+  f(x) = \frac{1}{\sqrt{2\pi}} \exp\left( - \frac{x^2}{2} \right),
+\]
+which is the density of a standard normal variable.
+
+
+
+\section{Results}
+\label{sec:resu}
+
+Table~\ref{tab:rv} summarizes some example draws from some distributions.
+
 
 Figure~\ref{fig:cars} shows the distance against the speed from this dataset.
 
