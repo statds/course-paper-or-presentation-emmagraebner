@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 17:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -416,30 +416,31 @@ l.42 ...s day, her single, Anti-Hero is still at #
 ? 
 
 Package natbib Warning: Citation `newkey2014taylor' on page 2 undefined on inpu
-t line 46.
+t line 45.
+
+
+Package natbib Warning: Citation `rossman2022taylor' on page 2 undefined on inp
+ut line 47.
 
 [2]
 
 Package natbib Warning: Citation `Nunes2015power' on page 3 undefined on input 
-line 98.
-
-
-LaTeX Warning: Reference `eq:area' on page 3 undefined on input line 127.
+line 97.
 
 [3]
 
-LaTeX Warning: Reference `fig:cars' on page 4 undefined on input line 137.
+LaTeX Warning: Reference `fig:cars' on page 4 undefined on input line 135.
 
-<graph.png, id=49, 844.65562pt x 279.0425pt>
+<graph.png, id=48, 844.65562pt x 279.0425pt>
 File: graph.png Graphic file (type png)
 <use graph.png>
-Package pdftex.def Info: graph.png  used on input line 142.
+Package pdftex.def Info: graph.png  used on input line 140.
 (pdftex.def)             Requested size: 469.75502pt x 155.194pt.
 (./finalpaper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
-[4 <./graph.png>] (./finalpaper.aux)
+[4 <./graph.png>] [5] (./finalpaper.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -451,21 +452,21 @@ Package rerunfilecheck Info: File `finalpaper.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9748 strings out of 478268
- 151868 string characters out of 5846347
+ 151865 string characters out of 5846347
  458489 words of memory out of 5000000
- 27833 multiletter control sequences out of 15000+600000
+ 27832 multiletter control sequences out of 15000+600000
  475853 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,861b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,8n,63p,861b,329s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on finalpaper.pdf (4 pages, 156720 bytes).
+Output written on finalpaper.pdf (5 pages, 158964 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
