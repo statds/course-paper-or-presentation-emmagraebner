@@ -15,7 +15,7 @@
 
 %% meta data
 
-\title{title}
+\title{Has Taylor Swift Succumbed? An Analysis of the Repetitive Nature of Pop Music and Its Influence on Major Musical Artists}
 \author{Emma Graebner\\
   Department of Statistics\\
   University of Connecticut
@@ -25,7 +25,7 @@
 \maketitle
 
 \begin{abstract}
-The world of Pop music is dominated by few artists. One of those being the Grammy award winning country, pop, and indie folk singer Taylor Swift. Swift's influence on mainstream Pop music has been record-breaking. This article will analyze one song chosen at random from each of her ten studio albums (not including her re-released "(Taylor's Version")) for its proportion of unique words to total words. The data suggests that her Pop albums were the most repeptitive, while her Indie Folk and Country albums were the least repetitive. The argument will be made that the songs that Top the Billboard 100 charts are more likely to be repetitive, and Swift has reflected that ideal in her own writing. This article will also analyze related artist's - Lady Gaga, Sam Smith, and Dua Lipa - popular works to compare with Swift's.   
+The world of Pop music is dominated by few artists. One of those being the Grammy award winning country, pop, and indie folk singer Taylor Swift. Swift's influence on mainstream Pop music has been record-breaking. This article will analyze one song chosen at random from each of her ten studio albums (not including her re-released "(Taylor's Version")) for its proportion of unique words to total words. The data suggests that her Pop albums were the most repetitive, while her Indie Folk and Country albums were the least repetitive. The argument will be made that the songs that Top the Billboard 100 charts are more likely to be repetitive, and Swift has reflected that ideal in her own writing. This article will also analyze related artist's - Lady Gaga, Sam Smith, and Dua Lipa - popular works to compare with Swift's.   
 \end{abstract}
 
 
@@ -60,7 +60,21 @@ The data that I am using to analyze the songs I have chosen at random is the ind
 
 This data explains the trend in popular mainstream music making. As you can see from the table below, The highest proportion of unrepeated words was from Taylor Swift's album entitled Evermore. The data from Champagne Problems, the song chosen at random to represent this album, has a proportion of 0.4090; almost 41 percent of the song is unique in its prose. Her most repetitive songs include Labyrinth (from Midnights) at a proportion of .1254, Welcome To New York (from 1989) with .1391, and ...Ready For It (from Reputation) having .1396 proportion. 
 
-
+\begin{table}[tbp]
+  \caption{This table demonstrates the comparison of proportion unique words to its musical artist, genre, and time spent on the Billboard Top 100.}
+  \label{tab:rv}
+\centering
+\begin{tabular}{rrrrr}
+  \toprule
+Artist & Song & Proportion Unique Words & Genre & Time Spent on Billboard Top 100 Chart (in weeks) \\ 
+  \midrule
+Dua Lipa & Cool & .0827 & Electronic Pop & 0 \\ 
+  Lady Gaga & 1000 Doves  & .1764 & Electronic Pop & 0 \\ 
+  Sam Smith & Unholy & .2017 & Dance Pop & 6 \\ 
+  The Weeknd & Blinding Lights & .1760 & Electronic & 90\\ 
+     \bottomrule
+\end{tabular}
+\end{table}
 
 \begin{table}[tbp]
   \caption{This table comprises the proportion of unique words in each Taylor Swift song from 10 different albums.}
@@ -84,22 +98,6 @@ Taylor Swift & Cold As You & .2204 \\
 \end{tabular}
 \end{table}
 
-\begin{table}[tbp]
-  \caption{This table demonstrates the comparison of proportion unique words to its musical artist, genre, and time spent on the Billboard Top 100.}
-  \label{tab:rv}
-\centering
-\begin{tabular}{rrrrr}
-  \toprule
-Artist & Song & Proportion Unique Words & Genre & Time Spent on Billboard Top 100 Chart (in weeks) \\ 
-  \midrule
-Dua Lipa & Cool & .0827 & Electronic Pop & 0 \\ 
-  Lady Gaga & 1000 Doves  & .1764 & Electronic Pop & 0 \\ 
-  Sam Smith & Unholy & .2017 & Dance Pop & 6 \\ 
-  The Weeknd & Blinding Lights & .1760 & Electronic & 90\\ 
-     \bottomrule
-\end{tabular}
-\end{table}
-
 \section{Methods}
 \label{sec:meth}
 
@@ -107,12 +105,6 @@ Use this section to present the methodologies that will generate results by
 analyzing the data.
 
 Equation~\eqref{eq:area} is interesting. 
-
-Sometimes I don't want an equation to be numbered such as this one:
-\[
-  f(x) = \frac{1}{\sqrt{2\pi}} \exp\left( - \frac{x^2}{2} \right),
-\]
-which is the density of a standard normal variable.
 
 
 
@@ -127,9 +119,9 @@ Figure~\ref{fig:cars} shows the distance against the speed from this dataset.
 
 \begin{figure}[tbp]
   \centering
-  \includegraphics[width=\textwidth]{cars.pdf}
+  \includegraphics[width=\textwidth]{graph.png}
   \caption{This is my first figure.}
-  \label{fig:cars}
+  \label{fig:graph}
 \end{figure}
 
 \section{Discussion}
