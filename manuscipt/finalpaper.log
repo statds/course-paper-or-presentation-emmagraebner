@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 18:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 19:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -408,45 +408,56 @@ ut line 38.
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-./finalpaper.tex:42: You can't use `macro parameter character #' in horizontal 
+<reputationcover.png, id=34, 301.125pt x 301.125pt>
+File: reputationcover.png Graphic file (type png)
+<use reputationcover.png>
+Package pdftex.def Info: reputationcover.png  used on input line 45.
+(pdftex.def)             Requested size: 142.26378pt x 142.26852pt.
+<folklore.png, id=35, 301.125pt x 301.125pt>
+File: folklore.png Graphic file (type png)
+<use folklore.png>
+Package pdftex.def Info: folklore.png  used on input line 52.
+(pdftex.def)             Requested size: 142.26378pt x 142.26852pt.
+
+./finalpaper.tex:60: You can't use `macro parameter character #' in horizontal 
 mode.
-l.42 ...s day, her single, Anti-Hero is still at #
+l.60 ...s day, her single, Anti-Hero is still at #
                                                   1. To compare with another...
 
 ? 
+[2 <./reputationcover.png> <./folklore.png>]
 
-Package natbib Warning: Citation `newkey2014taylor' on page 2 undefined on inpu
-t line 45.
+Package natbib Warning: Citation `newkey2014taylor' on page 3 undefined on inpu
+t line 63.
 
 
-Package natbib Warning: Citation `rossman2022taylor' on page 2 undefined on inp
-ut line 47.
-
-[2]
-
-Package natbib Warning: Citation `Nunes2015power' on page 3 undefined on input 
-line 97.
+Package natbib Warning: Citation `rossman2022taylor' on page 3 undefined on inp
+ut line 65.
 
 [3]
-<graph 2.png, id=47, 561.09625pt x 379.91937pt>
+
+Package natbib Warning: Citation `Nunes2015power' on page 4 undefined on input 
+line 115.
+
+<graph 2.png, id=50, 561.09625pt x 379.91937pt>
 File: graph 2.png Graphic file (type png)
 <use graph 2.png>
-Package pdftex.def Info: graph 2.png  used on input line 121.
+Package pdftex.def Info: graph 2.png  used on input line 139.
 (pdftex.def)             Requested size: 469.75502pt x 318.06921pt.
- [4 <./graph 2.png>]
+[4] [5 <./graph 2.png>]
 
-LaTeX Warning: Reference `fig:cars' on page 5 undefined on input line 141.
+LaTeX Warning: Reference `fig:cars' on page 6 undefined on input line 159.
 
-<graph.png, id=57, 844.65562pt x 279.0425pt>
+<graph.png, id=65, 844.65562pt x 279.0425pt>
 File: graph.png Graphic file (type png)
 <use graph.png>
-Package pdftex.def Info: graph.png  used on input line 146.
+Package pdftex.def Info: graph.png  used on input line 164.
 (pdftex.def)             Requested size: 469.75502pt x 155.194pt.
 (./finalpaper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
-[5 <./graph.png>] (./finalpaper.aux)
+[6 <./graph.png>] (./finalpaper.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -457,22 +468,22 @@ Package rerunfilecheck Info: File `finalpaper.out' has not changed.
 (rerunfilecheck)             Checksum: A2DA40BC6B073A49D78286FDB82EC60D;415.
  ) 
 Here is how much of TeX's memory you used:
- 9758 strings out of 478268
- 152006 string characters out of 5846347
- 458535 words of memory out of 5000000
- 27840 multiletter control sequences out of 15000+600000
+ 9782 strings out of 478268
+ 152484 string characters out of 5846347
+ 459581 words of memory out of 5000000
+ 27861 multiletter control sequences out of 15000+600000
  475853 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,861b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,8n,63p,861b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on finalpaper.pdf (5 pages, 258818 bytes).
+Output written on finalpaper.pdf (6 pages, 408716 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
