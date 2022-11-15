@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  15 NOV 2022 07:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  15 NOV 2022 07:18
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **finalpaper.tex
 (./finalpaper.tex
@@ -420,8 +419,7 @@ Package pdftex.def Info: evermore.png  used on input line 49.
 (pdftex.def)             Requested size: 142.26378pt x 142.26852pt.
 
 [2 <./reputationcover.png> <./evermore.png>]
-./finalpaper.tex:60: You can't use `macro parameter character #' in horizontal 
-mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.60 ...2022), her single, Anti-Hero is still at #
                                                   1. To compare with another...
 
@@ -454,32 +452,32 @@ line 84.
 <Champagne Problems.png, id=46, 678.535pt x 680.04062pt>
 File: Champagne Problems.png Graphic file (type png)
 <use Champagne Problems.png>
-Package pdftex.def Info: Champagne Problems.png  used on input line 88.
+Package pdftex.def Info: Champagne Problems.png  used on input line 90.
 (pdftex.def)             Requested size: 142.26378pt x 142.57408pt.
 <Labyrinth.png, id=48, 668.99937pt x 669.50125pt>
 File: Labyrinth.png Graphic file (type png)
 <use Labyrinth.png>
-Package pdftex.def Info: Labyrinth.png  used on input line 95.
+Package pdftex.def Info: Labyrinth.png  used on input line 97.
 (pdftex.def)             Requested size: 142.26378pt x 142.36673pt.
 [4 <./Champagne Problems.png>]
 
 Package natbib Warning: Citation `Nunes2015power' on page 5 undefined on input 
-line 148.
+line 150.
 
 [5 <./Labyrinth.png>]
 <graph 2.png, id=65, 561.09625pt x 379.91937pt>
 File: graph 2.png Graphic file (type png)
 <use graph 2.png>
-Package pdftex.def Info: graph 2.png  used on input line 172.
+Package pdftex.def Info: graph 2.png  used on input line 174.
 (pdftex.def)             Requested size: 469.75502pt x 318.06921pt.
  [6] [7 <./graph 2.png>]
 
-LaTeX Warning: Reference `fig:cars' on page 8 undefined on input line 192.
+LaTeX Warning: Reference `fig:cars' on page 8 undefined on input line 194.
 
 <graph.png, id=80, 844.65562pt x 279.0425pt>
 File: graph.png Graphic file (type png)
 <use graph.png>
-Package pdftex.def Info: graph.png  used on input line 197.
+Package pdftex.def Info: graph.png  used on input line 199.
 (pdftex.def)             Requested size: 469.75502pt x 155.194pt.
 (./finalpaper.bbl)
 
@@ -508,7 +506,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on finalpaper.pdf (8 pages, 617837 bytes).
+Output written on finalpaper.pdf (8 pages, 617911 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
