@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 16:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 16:17
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **finalpaper.tex
 (./finalpaper.tex
@@ -420,8 +419,7 @@ Package pdftex.def Info: evermore.png  used on input line 49.
 (pdftex.def)             Requested size: 142.26378pt x 142.26852pt.
 
 [2 <./reputationcover.png> <./evermore.png>]
-./finalpaper.tex:60: You can't use `macro parameter character #' in horizontal 
-mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.60 ...2022), her single, Anti-Hero is still at #
                                                   1. To compare with another...
 
