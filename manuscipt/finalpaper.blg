@@ -1,10 +1,15 @@
 This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: finalpaper.aux
-I found no \bibstyle command---while reading file finalpaper.aux
+I couldn't open style file mcap.bst
+---line 43 of file finalpaper.aux
+ : \bibstyle{mcap
+ :               }
+I'm skipping whatever remains of this command
+I found no style file---while reading file finalpaper.aux
 You've used 7 entries,
             0 wiz_defined-function locations,
-            92 strings with 623 characters,
+            93 strings with 627 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
@@ -43,4 +48,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 0
-(There was 1 error message)
+(There were 2 error messages)

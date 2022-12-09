@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 15:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -485,7 +485,7 @@ Package pdftex.def Info: graph.png  used on input line 196.
 
 Package natbib Warning: There were undefined citations.
 
-[7] [8 <./graph 2.png> <./graph.png>] (./finalpaper.aux)
+[7] [8 <./graph 2.png> <./graph.png>] [9] (./finalpaper.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -493,10 +493,10 @@ Package rerunfilecheck Info: File `finalpaper.out' has not changed.
 (rerunfilecheck)             Checksum: A2DA40BC6B073A49D78286FDB82EC60D;415.
  ) 
 Here is how much of TeX's memory you used:
- 9807 strings out of 478268
- 153024 string characters out of 5846347
+ 9809 strings out of 478268
+ 153043 string characters out of 5846347
  458717 words of memory out of 5000000
- 27881 multiletter control sequences out of 15000+600000
+ 27882 multiletter control sequences out of 15000+600000
  475853 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,63p,990b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -505,10 +505,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on finalpaper.pdf (8 pages, 618494 bytes).
+Output written on finalpaper.pdf (9 pages, 619392 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
