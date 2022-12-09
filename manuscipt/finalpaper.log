@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 08:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 08:54
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **finalpaper.tex
 (./finalpaper.tex
@@ -420,8 +419,7 @@ Package pdftex.def Info: evermore.png  used on input line 49.
 (pdftex.def)             Requested size: 142.26378pt x 142.26852pt.
 
 [2 <./reputationcover.png> <./evermore.png>]
-./finalpaper.tex:60: You can't use `macro parameter character #' in horizontal 
-mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.60 ...2022), her single, Anti-Hero is still at #
                                                   1. To compare with another...
 
@@ -476,23 +474,16 @@ File: graph 2.png Graphic file (type png)
 <use graph 2.png>
 Package pdftex.def Info: graph 2.png  used on input line 174.
 (pdftex.def)             Requested size: 469.75502pt x 318.06921pt.
-
-
-LaTeX Warning: Reference `fig:cars' on page 7 undefined on input line 194.
-
-<graph.png, id=72, 844.65562pt x 279.0425pt>
+<graph.png, id=71, 844.65562pt x 279.0425pt>
 File: graph.png Graphic file (type png)
 <use graph.png>
-Package pdftex.def Info: graph.png  used on input line 199.
+Package pdftex.def Info: graph.png  used on input line 196.
 (pdftex.def)             Requested size: 469.75502pt x 155.194pt.
-(./finalpaper.bbl)
+ (./finalpaper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
 [7] [8 <./graph 2.png> <./graph.png>] (./finalpaper.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -500,10 +491,10 @@ Package rerunfilecheck Info: File `finalpaper.out' has not changed.
 (rerunfilecheck)             Checksum: A2DA40BC6B073A49D78286FDB82EC60D;415.
  ) 
 Here is how much of TeX's memory you used:
- 9809 strings out of 478268
- 153047 string characters out of 5846347
+ 9808 strings out of 478268
+ 153037 string characters out of 5846347
  458717 words of memory out of 5000000
- 27883 multiletter control sequences out of 15000+600000
+ 27882 multiletter control sequences out of 15000+600000
  475853 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,63p,990b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -512,10 +503,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on finalpaper.pdf (8 pages, 618216 bytes).
+Output written on finalpaper.pdf (8 pages, 618119 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 116 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  22 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
